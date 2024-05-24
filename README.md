@@ -29,6 +29,8 @@ Yêu cầu POST thành công không trả về mã trạng thái 200, 201 hoặc
 Test 2
 
 ## Chi tiết: Thông tin chi tiết về test này không được cung cấp trong ảnh.
+![Screenshot 2024-05-24 152741](https://github.com/KhanhChinh12/Postman_API_Test/assets/145414389/147eaa0c-2b92-457c-abc7-9b5a2950b544)
+
 ## Kết luận
 
 Hai trong số bốn test đã được thực hiện thành công. Hai test còn lại đã thất bại do thân phản hồi không khớp với chuỗi mong muốn và yêu cầu POST thành công không trả về mã trạng thái mong muốn.
