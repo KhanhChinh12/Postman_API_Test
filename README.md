@@ -28,7 +28,7 @@ Thân phản hồi không khớp với chuỗi mong muốn
 Yêu cầu POST thành công không trả về mã trạng thái 200, 201 hoặc 202
 Test 2
 
-## Chi tiết: Thông tin chi tiết về test này không được cung cấp trong ảnh.
+## Chi tiết hình ảnh minh chứng kiểm tra API:
 ![Screenshot 2024-05-24 152741](https://github.com/KhanhChinh12/Postman_API_Test/assets/145414389/147eaa0c-2b92-457c-abc7-9b5a2950b544)
 
 ## Kết luận
